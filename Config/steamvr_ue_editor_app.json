@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.ue4_niagara_practice-14830424.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/UnrealDemoProject/ue4_niagara_practice_4.26/ue4_niagara_practice 4.26/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "ue4_niagara_practice-14830424 [UE Editor]"
+				}
+			}
+		}
+	]
+}
