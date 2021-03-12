@@ -1,6 +1,7 @@
 .vs/
 Build/*
 
+Config/SteamVRBindings/*
 Saved/*
 DerivedDataCache/*
 Intermediate/*
